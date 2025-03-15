@@ -1,0 +1,13 @@
+.container {
+  color: gray;
+  text-align: center;
+  font-size: 12px;
+}
+
+body {
+  background-color: green;
+}
+
+a {
+  text-align: center;
+}
